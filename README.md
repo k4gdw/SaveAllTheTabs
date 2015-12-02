@@ -28,8 +28,8 @@ dockable window.
 
   * **Save Tabs...** `Ctrl+D, Ctrl+S` - saves the current set of opened document tabs
   * **Restore Tabs** menu - displays a list of the favorited (1-9) sets of document tabs
-    - `Ctrl+D, 1` through `Ctrl+D, 9` - closes all the opened documents and opens the 
-      selected set of document tabs
+    * `Ctrl+D, 1` through `Ctrl+D, 9` - closes all the opened documents and opens the 
+        selected set of document tabs
   * **Stash Tabs** `Ctrl+D, Ctrl+C` - stashes (saves to a well-known name, \<stash\>) the 
       current set of opened documents tabs
   * **Restore Stashed Tabs** `Ctrl+D, Ctrl+Z` or ``Ctrl+D, ` `` - closes all the opened d
@@ -67,6 +67,6 @@ double-click on a saved tab set to restore it.
 -----------------------------------------------------------------------
 *Last Edited - 11/30/2015 12:02 PM* 
 
-[1]: http://k4gdw.us/1TonFEL "Save All The Tabs on the Visual Studio Gallery"
+[1]: http://k4gdw.us/SaveAllTabs "Save All The Tabs on the Visual Studio Gallery"
 [2]: ./README-Images/readme-commands.png "Save All the Tabs Commands"
 [3]: ./README-Images/readme-saved-tabs-window.png "Saved Tabs Window"
